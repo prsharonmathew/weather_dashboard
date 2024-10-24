@@ -1,0 +1,2 @@
+# weather_dashboard
+A simple project built in python which provides visualization of weather conditions of your city. To get the dashboard user has to run the program initiate.py (python initiate.py). This will result in a user input prompt where the user should write the name of the desired city (Example: New York). Then the dashboard will be created and saved in the local enviornment. The Database is also uploaded. If the user wants to create a new one uncomment line 32 in load_data.py.
